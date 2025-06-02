@@ -11,3 +11,7 @@
 ### Projetos
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeonardoPereira003&repo=Estudos.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoPereira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
