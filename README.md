@@ -1,21 +1,23 @@
-## Olá
 
-###### Sobre o Leonardo
+# 👋 Olá
 
-  Desenvolvendo habilidades em progamação a mais de 4 anos 
+## 🚀 Sobre o Leonardo
+Desenvolvendo habilidades em programação há mais de 4 anos, com foco em Java e desenvolvimento Full Stack.
 
-### Detalhes
+---
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoPereira003&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 Detalhes
 
-### Projetos
+![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoPereira003&show_icons=true&theme=tokyonight)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeonardoPereira003&repo=Publicidade&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-### Linguagens utilizadas
+## 💻 Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoPereira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoPereira003&layout=compact&theme=tokyonight)
 
-### Contatos
+---
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](www.linkedin.com/in/leonardo-dos-reis-pereira-54938b252)
+## 📫 Contatos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](SEU_LINK_LINKEDIN_AQUI)
