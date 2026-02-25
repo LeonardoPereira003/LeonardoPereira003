@@ -1,16 +1,6 @@
-<h1 align="center">👋 Olá, eu sou o Leonardo</h1>
+## 👋 Olá, eu sou o Leonardo
 
-<p align="center">
-Desenvolvedor em evolução focado em <strong>Java</strong> e <strong>Full Stack</strong>
-</p>
-
----
-
-## 🚀 Sobre mim
-
-💻 Desenvolvendo habilidades em programação há mais de 4 anos  
-🎯 Foco em Java, SQL e arquitetura em camadas  
-📚 Estudando Clean Code, SOLID e boas práticas  
+🚀 Desenvolvedor em evolução focado em Java e Full Stack
 
 ---
 
@@ -19,18 +9,18 @@ Desenvolvedor em evolução focado em <strong>Java</strong> e <strong>Full Stack
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=LeonardoPereira003&show_icons=true&theme=tokyonight&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=LeonardoPereira003&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=60"
   />
 </p>
 
 ---
 
-## 💻 Linguagens mais usadas
+## 🧠 Linguagens mais usadas
 
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoPereira003&layout=compact&theme=tokyonight&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoPereira003&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60"
   />
 </p>
 
